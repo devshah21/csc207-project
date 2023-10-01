@@ -5,3 +5,9 @@ Our team is tentatively focusing on the problem domain of healthcare and wellnes
 
 # Project Description
 We are considering developing a web application that provides personalized health and wellness recommendations based on user data and preferences. This application will offer a user-friendly interface where individuals can input their health-related information such as age, gender, medical history, and fitness goals. The application will also have the following features:
+
+1. Health Assessment: Users will be guided through a series of questions to assess their current health status, lifestyle, and fitness level.
+
+2. Personalized Recommendations: Based on the user's input, the application will generate personalized health recommendations. These recommendations may include diet plans, exercise routines, stress management techniques, and general wellness tips.
+
+3. Progress Tracking: Users can input their health and fitness progress over time, and the application will track and visualize their improvements. This could include weight tracking, exercise records, and mood logs.
