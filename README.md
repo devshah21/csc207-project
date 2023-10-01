@@ -1,13 +1,17 @@
 # csc207-project
 
-# Problem Domain
-Our team is tentatively focusing on the problem domain of healthcare and wellness. We believe that health is a fundamental aspect of everyone's life, and there are numerous opportunities to develop applications that can help individuals manage and improve their health and well-being.
+# Trivia Game Project
 
-# Project Description
-We are considering developing a web application that provides personalized health and wellness recommendations based on user data and preferences. This application will offer a user-friendly interface where individuals can input their health-related information such as age, gender, medical history, and fitness goals. The application will also have the following features:
+## Problem Domain
+Our team is tentatively focusing on the problem domain of trivia games. Trivia games are a popular and entertaining way for people to test their knowledge on a wide range of topics. We believe that creating an engaging trivia application can provide users with a fun and educational experience.
 
-Health Assessment: Users will be guided through a series of questions to assess their current health status, lifestyle, and fitness level.
+## Project Description
+We are considering developing a web trivia application that allows users to participate in trivia quizzes on various subjects. The application will have the following features:
 
-Personalized Recommendations: Based on the user's input, the application will generate personalized health recommendations. These recommendations may include diet plans, exercise routines, stress management techniques, and general wellness tips.
+1. **Trivia Quizzes**: Users can choose from a variety of trivia categories such as sports, movies, science, and more. Each category will have a collection of trivia quizzes.
 
-Progress Tracking: Users can input their health and fitness progress over time, and the application will track and visualize their improvements. This could include weight tracking, exercise records, and mood logs.
+2. **User Accounts**: Users can create accounts to track their progress, earn achievements, and compete with friends on leaderboards.
+
+3. **Multiplayer Mode**: The application will support multiplayer mode, allowing users to challenge friends or random opponents in real-time trivia matches.
+
+4. **Questions and Answers**: The app will present multiple-choice questions to users, and they will have a limited time to select the correct answer. Users will receive instant feedback on their answers.
