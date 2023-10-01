@@ -17,7 +17,7 @@ We are considering developing a web trivia application that allows users to part
 4. **Questions and Answers**: The app will present multiple-choice questions to users, and they will have a limited time to select the correct answer. Users will receive instant feedback on their answers.
 
 
-Link to documentation: https://opentdb.com/api_config.php
+Link to [documentation](https://opentdb.com/api_config.php)
  
 ![image](https://github.com/devshah21/csc207-project/assets/93484966/5b97e8c3-bb7e-4fa9-8ad0-12a106735f78)
 
